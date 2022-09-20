@@ -51,7 +51,7 @@ endstep0-->
 <details id=1>
 <summary><h2>Step 1: Create a branch</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Welcome to "Introduction to GitHub"!
 
 **What is GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
